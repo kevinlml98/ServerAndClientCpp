@@ -1,0 +1,5 @@
+C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.vcxprojAssemblyReference.cache
+C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.MyForm.resources
+C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.vcxproj.GenerateResource.cache
+C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.exe
+C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.pdb

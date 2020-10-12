@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\kevin\Desktop\gui\ClientCpp\MyForm.h(171,14): warning C4244: 'inicializando': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+C:\Users\kevin\Desktop\gui\ClientCpp\MyForm.h(172,14): warning C4244: 'inicializando': conversión de 'wchar_t' a 'char'; posible pérdida de datos
+C:\Users\kevin\Desktop\gui\ClientCpp\MyForm.cpp(8,33): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ClientCpp.vcxproj -> C:\Users\kevin\Desktop\gui\ClientCpp\Debug\ClientCpp.exe
